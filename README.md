@@ -5,10 +5,10 @@ Programming: Python
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 Environment: Jupyter Notebook / Databricks
 
-Dataset:
+# Dataset:
 Load Prediction Dataset.csv
 
-Workflow
+# Workflow:
 Data Collection – Load and explore the dataset
 Data Preprocessing – Handle missing values, encode categorical features, feature scaling
 Exploratory Data Analysis (EDA) – Visualize distributions and correlations
